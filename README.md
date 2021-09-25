@@ -1,8 +1,14 @@
 # pwg
 
-A password generator for the command-line.
+A password generator for the command-line
 
 ## Usage
+
+```
+$ pwg
+```
+
+#### Available arguments
 
 ```
 $ pwg --help
