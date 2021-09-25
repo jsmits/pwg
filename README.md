@@ -1,5 +1,11 @@
 # pwg
 
+<p>
+  <a href="https://github.com/jsmits/pwg/actions/workflows/ci.yml">
+    <img src="https://github.com/jsmits/pwg/actions/workflows/ci.yml/badge.svg"/>
+  </a>
+</p>
+
 A password generator for the command-line
 
 ## Usage
