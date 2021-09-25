@@ -1,10 +1,6 @@
 # pwg
 
-<p>
-  <a href="https://github.com/jsmits/pwg/actions/workflows/ci.yml">
-    <img src="https://github.com/jsmits/pwg/actions/workflows/ci.yml/badge.svg"/>
-  </a>
-</p>
+[![CI](https://github.com/jsmits/pwg/actions/workflows/ci.yml/badge.svg)](https://github.com/jsmits/pwg/actions/workflows/ci.yml)
 
 A password generator for the command-line
 
