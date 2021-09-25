@@ -1,7 +1,7 @@
 [package]
 name = "pwg"
 version = "0.1.0"
-edition = "2021"
+edition = "2018"
 authors = ["Sander Smits <jhmsmits@gmail.com>"]
 description = "A password generator for the command-line"
 repository = "https://github.com/jsmits/pwg"
